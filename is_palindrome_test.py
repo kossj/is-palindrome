@@ -8,3 +8,5 @@ solution = is_palindrome.Solution()
 def test():
     assert solution.isPalindrome("racecar") is True
     assert solution.isPalindrome("not_a_palindrome") is False
+    assert solution.isPalindrome("place ecalp") is True
+    # TODO: Add more testcases.
