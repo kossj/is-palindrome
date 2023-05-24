@@ -27,3 +27,4 @@ Since an empty string reads the same forward and backward, it is a palindrome.
  ```
 
 You may use helper functions as you see fit, just make sure the templated function meets the requirements.
+Testcases can be viewed in `is_palindrome_test.py`. You don't need.
