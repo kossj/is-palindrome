@@ -4,7 +4,12 @@
 		"vscode": {
 			"extensions": [
 				"ms-python.python"
-			]
+			],
+			"settings": {
+				"extensions.ignoreRecommendations": true,
+				"git.suggestSmartCommit": false, // The idea behind disabling this is so students get in the flow of using git.
+				"github.codespaces.devcontainerChangedNotificationStyle": "none"
+			}
 		}
 	}
 }

@@ -9,4 +9,7 @@ def test():
     assert solution.isPalindrome("racecar") is True
     assert solution.isPalindrome("not_a_palindrome") is False
     assert solution.isPalindrome("place ecalp") is True
-    # TODO: Add more testcases.
+    assert solution.isPalindrome("A man, a plan, a canal: Panama") is True
+    assert solution.isPalindrome("race a car") is False
+    assert solution.isPalindrome(" ") is True
+    # TODO: Add more testcases, particulary alphanumeric
