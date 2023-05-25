@@ -28,3 +28,6 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 You may use helper functions as you see fit, just make sure the templated function meets the requirements.
 Testcases can be viewed in `is_palindrome_test.py`.
+
+Wondering what all those .files are? Those are called, well, dotfiles and contain useful config info! You don't have to worry
+about those for now, though.
